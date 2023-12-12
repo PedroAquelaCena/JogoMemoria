@@ -1,0 +1,108 @@
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.exe
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.deps.json
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.runtimeconfig.json
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.dll
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.pdb
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.csproj.AssemblyReference.cache
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.Form1.resources
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.Form2.resources
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.Properties.Resources.resources
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.csproj.GenerateResource.cache
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.AssemblyInfoInputs.cache
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.AssemblyInfo.cs
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.dll
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\refint\JogodaMemoria.dll
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.pdb
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.genruntimeconfig.cache
+C:\Users\AEMaximinos\Desktop\Programação\C#\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\ref\JogodaMemoria.dll
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.exe
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.deps.json
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.runtimeconfig.json
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.dll
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.pdb
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.csproj.AssemblyReference.cache
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.Form1.resources
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.Form2.resources
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.Properties.Resources.resources
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.csproj.GenerateResource.cache
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.AssemblyInfoInputs.cache
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.AssemblyInfo.cs
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.dll
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\refint\JogodaMemoria.dll
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.pdb
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.genruntimeconfig.cache
+C:\Users\Pedro Henrycque\Desktop\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\ref\JogodaMemoria.dll
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoria\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.csproj.AssemblyReference.cache
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.exe
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.deps.json
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.runtimeconfig.json
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.dll
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.pdb
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.csproj.AssemblyReference.cache
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.Form1.resources
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.Form2.resources
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.Form3.resources
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.Properties.Resources.resources
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.csproj.GenerateResource.cache
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.AssemblyInfoInputs.cache
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.AssemblyInfo.cs
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.dll
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\refint\JogodaMemoria.dll
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.pdb
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.genruntimeconfig.cache
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\ref\JogodaMemoria.dll
+C:\Users\AEMaximinos\Desktop\Programação\C#\a2\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.FormConfig.resources
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.exe
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.deps.json
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.runtimeconfig.json
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.dll
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.pdb
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.csproj.AssemblyReference.cache
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.Form1.resources
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.Form2.resources
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.Form3.resources
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.FormConfig.resources
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.Properties.Resources.resources
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.csproj.GenerateResource.cache
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.AssemblyInfoInputs.cache
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.AssemblyInfo.cs
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.dll
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\refint\JogodaMemoria.dll
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.pdb
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.genruntimeconfig.cache
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\ref\JogodaMemoria.dll
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.DifM.resources
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.FormDfs.resources
+C:\Users\Pedro Henrycque\Desktop\jg\a4\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.DifDificil.resources
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.exe
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.deps.json
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.runtimeconfig.json
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.dll
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\bin\Debug\net6.0-windows\JogodaMemoria.pdb
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.csproj.AssemblyReference.cache
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.DifDificil.resources
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.DifM.resources
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.Form1.resources
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.Form2.resources
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.Form3.resources
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.FormConfig.resources
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.FormDfs.resources
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.Properties.Resources.resources
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.csproj.GenerateResource.cache
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.AssemblyInfoInputs.cache
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.AssemblyInfo.cs
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.dll
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\refint\JogodaMemoria.dll
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.pdb
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\JogodaMemoria.genruntimeconfig.cache
+C:\Users\AEMaximinos\Desktop\Programação\C#\A5F.V1\JogodaMemoriaBk\JogodaMemoria\obj\Debug\net6.0-windows\ref\JogodaMemoria.dll
